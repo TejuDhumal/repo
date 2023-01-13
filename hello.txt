@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-hi tejaswini dhumal
-=======
 
 hii pallavi 
 hi dnyanu
->>>>>>> develop
+hello  
+pratiksha 
+avantika
